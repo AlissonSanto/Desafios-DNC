@@ -1,5 +1,7 @@
-# Welcome to GitHub Desktop!
+# Desafio 1 - Resolução
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Link do site disponibilizado - https://desafioarquitt1dnc.netlify.app/
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Link da Planilha de registro de informações - https://docs.google.com/spreadsheets/d/1oKrfBISy0nwZ3zXxQh9PQAzHFyZsz9DF0gI5qHRWK-8/edit#gid=0
+
+
